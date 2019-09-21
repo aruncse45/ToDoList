@@ -20,7 +20,7 @@
 	        <div class="form-group row">
 			    <label for="inputPassword" class="col-sm-2 col-form-label">Task</label>
 				    <div class="col-sm-10">
-				      <input v-model="title" type="Text" class="form-control" id="inputPassword" placeholder="Password">
+				      <input v-model="title" type="Text" class="form-control" id="inputPassword" placeholder="What do you need to do?">
 				    </div>
 			</div>
 			
